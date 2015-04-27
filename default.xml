@@ -585,6 +585,8 @@
   <project path="vendor/widevine" name="TheMuppets/proprietary_vendor_widevine" remote="github" revision="cm-12.1" groups="notdefault,vendor" />
 
   <project path="platform_manifest" name="AOKP/platform_manifest" remote="aokp" revision="lollipop" />
+  <project path="vendor/cm" name="kbc-developers/android_vendor_cm" remote="github" />
+  <project path="vendor/aojp" name="kbc-developers/android_vendor_aojp" remote="github" />
 
 </manifest>
 

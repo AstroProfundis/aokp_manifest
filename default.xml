@@ -76,9 +76,9 @@
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" groups="qcom" remote="github" revision="cm-12.1" />
   <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" groups="qcom" remote="github" revision="cm-12.1" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  <project path="device/samsung/jf-common" name="AOKP/device_samsung_jf-common" remote="aokp" revision="lollipop" groups="notdefault,device,jfltevzw" />
+  <project path="device/samsung/jf-common" name="kbc-developers/device_samsung_jf-common" remote="aokp" revision="lollipop" groups="notdefault,device,jfltevzw" />
   <project path="device/samsung/jfltevzw" name="AOKP/device_samsung_jfltevzw" remote="aokp" revision="lollipop" groups="notdefault,device,jfltevzw" />
-  <project path="device/samsung/qcom-common" name="AOKP/device_samsung_qcom-common" remote="aokp" revision="lollipop" groups="notdefault,device,jfltevzw" />
+  <project path="device/samsung/qcom-common" name="kbc-developers/device_samsung_qcom-common" remote="aokp" revision="lollipop" groups="notdefault,device,jfltevzw" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="notdefault,device,manta" />
   <project path="device/sony/common" name="AOKP/device_sony_common" remote="aokp" revision="lollipop" groups="notdefault,device,sony" />
   <project path="device/sony/qcom-common" name="AOKP/device_sony_qcom-common" remote="aokp" revision="lollipop" groups="notdefault,device,sony" />
@@ -576,11 +576,11 @@
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="lollipop" />
   <project path="vendor/aokp/resources" name="AOKP/vendor_aokp_resources" remote="aokp" revision="lollipop" />
   <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-12.1" groups="notdefault,vendor,asus,grouper" />
-  <project path="vendor/lge" name="AOKP/vendor_lge" groups="notdefault,vendor,lge" remote="aokp" revision="lollipop" />
+  <project path="vendor/lge" name="kbc-developers/proprietary_vendor_lge" groups="notdefault,vendor,lge" remote="aokp" revision="lollipop" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-12.1" />
   <project path="vendor/nvidia" name="TheMuppets/proprietary_vendor_nvidia" remote="github" revision="cm-12.1" groups="notdefault,vendor,nvidia,grouper" />
   <project path="vendor/oppo" name="AOKP/vendor_oppo" remote="aokp" revision="lollipop" groups="notdefault,vendor,oppo,oneplus" />
-  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-12.1" groups="notdefault,vendor,samsung,jfltevzw" />
+  <project path="vendor/samsung" name="kbc-developers/proprietary_vendor_samsung" remote="github" revision="cm-12.1" groups="notdefault,vendor,samsung,jfltevzw" />
   <project path="vendor/sony" name="AOKP/vendor_sony" remote="aokp" revision="lollipop" groups="notdefault,vendor,sony" />
   <project path="vendor/widevine" name="TheMuppets/proprietary_vendor_widevine" remote="github" revision="cm-12.1" groups="notdefault,vendor" />
 
